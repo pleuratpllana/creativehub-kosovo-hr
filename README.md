@@ -20,4 +20,4 @@ My fourth project for Creative Hub Kosovo: a responsive landing page built with 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pleuratpllana/human-resources-landing-page.git
+   git clone https://github.com/pleuratpllana/creativehub-kosovo-hr.git
