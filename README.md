@@ -1,6 +1,6 @@
 # CreativeHub - HR Landing Page
 
-My fourth project for Creative Hub Kosovo: a responsive landing page built with HTML, CSS, and JavaScript.
+My fourth project for Creative Hub Kosovo: a responsive landing page for Human Resources Academy built with HTML, CSS, and JavaScript.
 
 ## Features
 
