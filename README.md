@@ -19,4 +19,4 @@ My fourth project for CreativeHub: a responsive landing page built with HTML, CS
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pleuratpllana/creativehub-landing-page.git
+   git clone https://github.com/pleuratpllana/human-resources-landing-page.git
