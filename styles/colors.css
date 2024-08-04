@@ -1,0 +1,19 @@
+:root {
+  --primary-color: #1060ff;
+  --secondary-color: #ff8716;
+  --tertiary-color: #93e5ff;
+  --background-blue-gradient: linear-gradient(
+    90deg,
+    #0f5cf5 0%,
+    #17b1e1 84.42%
+  );
+  --orange-gradient: var(--Solid-HR-Light, #f88a4d);
+  --text-blue-gradient: linear-gradient(90deg, #0f5cf5 0%, #17b1e1 24.04%);
+  --invert-gradient: linear-gradient(
+    90deg,
+    #93e5ff -3%,
+    rgba(38, 21, 171, 0) 52.88%
+  );
+  --white: #fff;
+  --dark-text-color: var(--Ink-06, #666);
+}
