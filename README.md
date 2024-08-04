@@ -11,9 +11,10 @@ My fourth project for Creative Hub Kosovo: a responsive landing page built with 
 
 - HTML
 - CSS
-- JavaScript
+- SCSS
 - Bootstrap
-- Glide.js
+- JavaScript
+- Glide JS
 
 ## How to Run
 
