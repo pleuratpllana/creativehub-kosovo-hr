@@ -16,6 +16,9 @@ My fourth project for Creative Hub Kosovo: a responsive landing page for Human R
 - JavaScript
 - Glide JS
 
+## Live Preview
+https://creativehubkos.com/hr/
+
 ## How to Run
 
 1. Clone the repository:
